@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/xCP3WLxn/sbm-logo.png" width="60px">
+  <img src="https://i.postimg.cc/nLbg4bC5/sbm-banner.png">
 </div>
 
 # SBM-Simple-Bookmark-Manager-
