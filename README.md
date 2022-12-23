@@ -2,5 +2,9 @@
   <img src="https://i.postimg.cc/MTrYYV9T/sbm-banner.png">
 </div>
 
+<div align="center">
+  <h1>🚧 Work in progress 🚧</h1>
+</div>
+
 # SBM (Simple Bookmark Manager)
 Make Bookmark Easy and Manageable.
