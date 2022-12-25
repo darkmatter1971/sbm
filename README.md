@@ -6,5 +6,5 @@
   <h1>🚧 Work in progress 🚧</h1>
 </div>
 
-# SBM or Simple Bookmark Manager
+### SBM or Simple Bookmark Manager
 Make Bookmark Easy and Manageable.
