@@ -7,4 +7,4 @@
 </div>
 
 ### SBM or Simple Bookmark Manager
-Make Bookmark Easy and Manageable.
+A simple bookmark manager for slimplicity.
